@@ -6,11 +6,11 @@ This license conditionally grants rights for anyone to view, study, use (publicl
 
 2) If any profits are made from the work or from a derivitive product:
 
-i) Alec Gargett is informed promptly and within a month
+i) Alec Gargett is informed promptly and within a month;
 
-ii) If alive and able to communicate, Alec Gargett is promptly paid at least a fair percentage of any profits
+ii) If alive and able to communicate, Alec Gargett is promptly paid at least a fair percentage of any profits;
 
-iii) If dead or not able to communicate, Alec Gargett's heirs are paid at least this percentage.
+iii) If dead or not able to communicate, Alec Gargett's heirs are paid at least this percentage;
 
 iv) The percentage paid will be at least the percentage requested by Alec Gargett between 0% and 50%, or if no request is made, at least the percentage of value added by Alec Gargett's contribution and at least 1%.
 
