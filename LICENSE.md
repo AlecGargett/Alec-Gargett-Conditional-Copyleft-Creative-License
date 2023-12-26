@@ -18,4 +18,6 @@ iv) The percentage paid will be at least any fair percentage requested by the ar
 
 3) Any sublicensing will include all of the conditions in this license.
 
+In exhange, I commit not be a copyright troll (or a copyleft troll) and I will not sue unless you are clearly making a large profit from my work or undermining my own income and clearly not paying me a fair amount.
+
 The Alec Gargett Conditional Copyleft Creative License is itself a work licensed under the Alec Gargett Conditional Copyleft Creative License
